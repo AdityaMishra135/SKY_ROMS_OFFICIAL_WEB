@@ -1,0 +1,16 @@
+# Ignore everything
+/*
+
+# Except src directory (source code only)
+!/src
+
+# Essential config and metadata files
+!.gitignore
+!README.md
+!package.json
+!package-lock.json
+!tsconfig.json
+!next.config.ts
+!postcss.config.mjs
+!tailwind.config.ts
+!firebase.json

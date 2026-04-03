@@ -1,0 +1,22 @@
+export const themes = [
+  { name: "default", primary: "#6366f1", bg: "#0f172a" },
+  { name: "dark", primary: "#22c55e", bg: "#020617" },
+  { name: "light", primary: "#3b82f6", bg: "#ffffff" },
+  { name: "red", primary: "#ef4444", bg: "#1f2937" },
+  { name: "purple", primary: "#a855f7", bg: "#1e1b4b" },
+  { name: "orange", primary: "#f97316", bg: "#7c2d12" },
+  { name: "pink", primary: "#ec4899", bg: "#500724" },
+  { name: "cyan", primary: "#06b6d4", bg: "#083344" },
+  { name: "lime", primary: "#84cc16", bg: "#1a2e05" },
+  { name: "yellow", primary: "#eab308", bg: "#422006" },
+  { name: "indigo", primary: "#6366f1", bg: "#1e1b4b" },
+  { name: "teal", primary: "#14b8a6", bg: "#042f2e" },
+  { name: "rose", primary: "#f43f5e", bg: "#4c0519" },
+  { name: "emerald", primary: "#10b981", bg: "#022c22" },
+  { name: "sky", primary: "#0ea5e9", bg: "#082f49" },
+  { name: "amber", primary: "#f59e0b", bg: "#451a03" },
+  { name: "violet", primary: "#8b5cf6", bg: "#2e1065" },
+  { name: "fuchsia", primary: "#d946ef", bg: "#4a044e" },
+  { name: "slate", primary: "#64748b", bg: "#020617" },
+  { name: "neutral", primary: "#737373", bg: "#171717" }
+];
